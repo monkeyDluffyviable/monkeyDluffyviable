@@ -1,0 +1,209 @@
+<html>
+<head>
+<title>INSTALACION FISICA DE UNA RED </title> 
+<body bgcolor="gray">
+<h1> instalacion fisica de una red </h1>
+<p>Red
+¿Qué es una red?
+En informática, se entiende por red (usualmente red informática o red de computadoras) 
+a la interconexión de un número determinado de computadores (o de redes, a su vez) 
+mediante dispositivos alámbricos o inalámbricos que, mediante impulsos eléctricos, 
+ondas electromagnéticas u otros medios físicos, les permiten enviar y recibir información en paquetes de datos,
+ compartir sus recursos y actuar como un conjunto organizado.
+Las redes cuentan con procesos de emisión y recepción de mensajes, así como de una serie de códigos y estándares que garantizan
+ su comprensión por los computadores conectados a la red (y no por cualquier otro). A dichos estándares de comunicación se los conoce como protocolos,
+ y el más común de ellos actualmente es el TCP/IP.</p>
+<p>Tipos de red
+LAN. Local Area Network (en inglés: “Red de Área Local”). Son las redes de menor envergadura, como las que podemos instalar en nuestro departamento.
+MAN. Metropolitan Area Network (en inglés: “Red de Área Metropolitana”). Se trata de redes de tamaño mediano, óptimas para un campus universitario o
+ el edificio de una biblioteca o empresa de varios pisos, incluso para una porción de una ciudad.
+WAN. Wide Area Network (en inglés: “Red de Área Amplia”). Aquí entran las redes de mayor tamaño y alcance, como las redes globales o como Internet.
+Las redes también se pueden clasificar según el método físico que emplean para la conexión, de la siguiente manera:
+
+Medios guiados. Redes que enlazan las máquinas mediante sistemas físicos de cables: par trenzado, coaxiales o fibra óptica. Tiene la ventaja de ser más veloz, 
+al no tener tanto ruido, pero ser menos cómodas y prácticas.
+Redes de medios no guiados. Redes que establecen la conexión mediante sistemas dispersos y de alcance de área: ondas de radio, señal infrarroja o microondas,
+ como los sistemas satelitales y el Wifi. Son un poco más lentas pero mucho más cómodas y prácticas.
+Topología de red
+Existen tres modelos de topología u ordenamiento de una red:
+
+Redes en bus. También llamadas lineales, tienen un servidor a la cabeza de una línea sucesiva de clientes
+ y cuentan con un único canal de comunicación denominado bus o backbone.
+Redes en estrella. Cada computador posee una conexión directa con el servidor,
+ que se halla en el medio de todas. Cualquier comunicación entre los clientes deberá pasar primero por el servidor.
+En anillo. También llamadas circulares, conectan a los clientes y al servidor en un circuito circular,
+ aunque el servidor mantiene su jerarquía sobre el sistema.
+Elementos de una red
+instalar una red informática se necesitan los siguientes elementos:
+
+Hardware. Dispositivos y máquinas que permiten el establecimiento de la comunicación, como son tarjetas de red, 
+módems y enrutadores, o antenas repetidoras en caso de ser inalámbricas.
+Software. Programas requeridos para administrar el hardware de comunicaciones, 
+como es el Sistema Operativo de Redes (de siglas NOS: Network Operating System),
+ y los protocolos de comunicación como TCP/IP.</p>
+
+<p>Servidores y clientes. Los servidores procesan el flujo de datos de la red, atendiendo a las peticiones de los demás computadores de la red denominados clientes
+ o estaciones de trabajo. Estos permiten a los usuarios el acceso a la información de manera individual, compartiendo los recursos administrados por el servidor.
+Medios de transmisión. Esto alude al cableado o a las ondas electromagnéticas que, según sea el caso, sirven de medio a la comunicación del mensaje.
+Red de computadoras
+¿Qué es una red de computadoras?
+Una red informática, una red de comunicaciones de datos o una red de computadoras es la interconexión de distinto número de sistemas informáticos a través 
+de una serie de dispositivos de telecomunicaciones y un medio físico (alámbrico o inalámbrico).
+¿Qué es una red de computadoras?
+Una red informática, una red de comunicaciones de datos o una red de computadoras es la interconexión de distinto número de sistemas informáticos
+ a través de una serie de dispositivos de telecomunicaciones y un medio físico (alámbrico o inalámbrico).
+Su función es compartir información en paquetes de datos. Los mismos se transmiten mediante impulsos eléctricos, ondas electromagnéticas u otros medios,
+ empleando una codificación especial. Para ello el sistema traduce a un mismo idioma los procesos de las distintas computadoras,
+ a través de una serie de estándares de comunicación.</p>
+
+<p>Las redes de computadoras no son distintas, en su lógica de intercambio, de otros procesos comunicativos: poseen un emisor,
+ un receptor y un mensaje, un medio a través del cual transmitir el mensaje y una serie de códigos o protocolos para garantizar su correcta comprensión. Solo que,
+ en este caso, quienes envían y reciben mensajes son computadoras
+Tipos de redes de computadoras
+Comúnmente, las redes de computadoras se clasifican, en primer lugar, conforme a su alcance y tamaño geográfico:
+
+Redes LAN. Su nombre proviene de Local Area Network (en inglés: “Red de Área Local”), pues son las redes de menor tamaño y extensión,
+ como las que pueden existir entre los computadores de un mismo locutorio o cyber café.
+Redes MAN. Su nombre viene de Metropolitan Area Network (en inglés: “Red de Área Metropolitana”) y designa redes de tamaño intermedio,
+ como las empleadas en grandes bibliotecas o grandes empresas, conectando áreas distintas y alejadas geográficamente entre sí.
+Redes WAN. Llamada así por las siglas de Wide Area Network (en inglés: “Red de Área Amplia”), se trata de redes de gran envergadura y extenso alcance,
+ como puede ser la red global de redes, Internet.
+Elementos básicos de una red de computadoras
+Comúnmente una red informática contiene los siguientes elementos:
+
+Servidor. Las computadoras de una red no poseen la misma jerarquía, ni desempeñan las mismas funciones. Por ejemplo,
+ los servidores son los encargados de procesar el flujo de datos de la red, atendiendo a todas las demás computadoras conectadas 
+(es decir, “sirviéndolos”) y centralizando el control de la red en sí misma.
+Clientes o estaciones de trabajo. Estas son las computadoras que no sirven a las demás, sino que forman parte de la red y brindan acceso a la misma, 
+solicitando los recursos administrados por el servidor.
+Medios de transmisión. Se refiere al cableado, a las ondas electromagnéticas, o al medio físico que permita la transmisión de la información de la red,
+ sea cual sea.
+Elementos de hardware. Todas las piezas tecnológicas que habilitan el establecimiento físico de una red, o sea, que la permiten. Hablamos de tarjetas de red, 
+módems y enrutadores, o antenas repetidoras que extienden la conexión inalámbricamente.
+Elementos de software. Similarmente, se requiere de programas para administrar y poner en funcionamiento el hardware de comunicaciones de cada estación de trabajo,
+ lo que incluye el Sistema Operativo de Redes (NOS, del inglés Network Operating System),, que además de sostener la operatividad de la red,
+ le brinda servicios de antivirus y firewall; así como los protocolos comunicativos (TCP/IP) que permiten a las máquinas compartir el idioma.
+Historia de las Redes de Computadoras
+La La historia de las redes de computadoras ha sido un viaje fascinante que ha revolucionado la forma en que el mundo se comunica e interactúa. 
+Desde los primeros días de los sistemas primitivos de transmisión de datos hasta la sofisticación de las redes modernas,
+ el desarrollo de las redes de computadoras ha sido una historia de innovación, desafíos y avances tecnológicos.</p>
+<p>Historia de Internet
+La historia de Internet
+Todos hoy en día sabemos qué es Internet, al punto tal que generaciones enteras no pueden ya imaginar un mundo desprovisto de esta gran red de comunicaciones mundial,
+
+ cuya historia resulta bastante reciente.
+El primer antecedente de Internet fueron las telecomunicaciones,
+ cuyo primer representante moderno es el telégrafo de finales del siglo XIX. Por otro lado, 
+también fue necesaria la invención de las computadoras, cuyos primeros ejemplares propiamente dichos fueron máquinas
+ de cálculo creadas con fines bélicos durante la Segunda Guerra Mundial.
+
+De modo que gracias a muchos descubrimientos e invenciones, a mediados del siglo XX, 
+aparecieron las primeras ideas respecto de redes de comunicaciones (y más adelante, redes computarizadas).
+
+La primera mención de una interconexión social computarizada, bajo el concepto de networking (trabajo en red), 
+proviene de una serie de memorandos del estadounidense Joseph Carl Robnett Licklider (1915-1990), apodado “Lick”
+ en el Instituto de Tecnología de Massachusetts (MIT), en los Estados Unidos. En dichos memorandos, de agosto de 1962,
+ “Lick” argumentaba a favor de lo que llamaba “Galactic Network” (Red Galáctica).
+
+En las décadas de 1950 y 1960 existían modestas redes de computadoras, dedicadas a sistemas de reservación aeroportuaria (SABRE)
+ y a sistemas de defensa y control militar (AUTODIN I). Además, hacia los años 60, los fabricadores de computadoras habían incorporado
+ a sus productos la tecnología de los semiconductores.
+
+Así nacieron nuevos modos de gestión de tiempo y recursos, permitiendo que las grandes computadoras pudieran “atender” a distintos usuarios a la vez,
+ de un modo tan rápido y eficiente que daba la impresión de estar dedicada a cada uno de ellos de manera exclusiva. De allí surgió la idea de tener computadores
+ “huéspedes” (hosts) y servidores (servers).
+
+Uno de los primeros sistemas computarizados multipropósito fue ARPANET, surgido de 1969, un proyecto militar del Departamento de Defensa de loso Estados Unidos.
+ Este sistema conectaba a diferentes usuarios en las computadoras de las diferentes universidades del país. A la cabeza de este proyecto estuvo el mismo Joseph
+ Licklider.
+
+Por eso se hizo indispensable la creación de protocolos de comunicación que permitieran a computadoras tan distintas “hablar” un mismo idioma, por así decirlo.
+
+En 1973 ARPANET y NORSAR (una red computarizada noruega para la detección de sismos y explosiones nucleares), comenzaron a intercambiar información computarizada,
+ justo antes de que Gran Bretaña se sumara también al proyecto. Finalmente, la necesidad de protocolos comunes de comunicación llevó al nacimiento de los protocolos 
+TCP/IP en 1982.
+
+Durante la década de los 80, Internet creció y se abrió lentamente al mundo comercial, aunque aún bajo criterios no demasiado claros. ARPANET continuó creciendo y
+ conectándose con otras redes extranjeras en el mundo entero, desligándose en el proceso de sus atribuciones militares, hasta su cierre a comienzos de los 90.
+
+Entonces, otro proyecto similar de la National Science Foundation (Fundación Nacional para la Ciencia) estadounidense absorbió a la antigua ARPANET, para crear NSFNET,
+ la gran red de científicos y universidades. Este es el embrión lo que hoy conocemos como Internet, que en 1990 tenía ya 100.000 servidores en el mundo.
+
+El término “Internet” se propuso en la década de 1990, como acrónimo de Interconnected Netwoks (redes interconectadas), pero hay también quienes lo interpretan
+como International NET (red internacional).</p>
+<p>Fibra óptica
+¿Qué es la fibra óptica?
+La fibra óptica es un medio físico de transmisión de información,
+ usual en redes de datos y telecomunicaciones, que consiste en un filamento delgado de vidrio o de plástico, 
+a través del cual viajan pulsos de luz láser o led, en la cual se contienen los datos a transmitir.</p> 
+<p>A través de la transmisión de estos impulsos de luz se puede enviar y recibir información a importantes velocidades a través de un tendido de cable,
+ a salvo de interferencias electromagnéticas y con velocidades similares a las de la radio. Esto hace de la fibra óptica el medio de transmisión
+ por cable más avanzado que existe.
+La implementación de la fibra óptica es heredera de siglos de investigación y experimentación sobre la luz y sus propiedades, 
+desde las épocas antiguas en que los Griegos se comunicaban a través del reflejo de la luz solar en pequeños espejos, 
+los experimentos ópticos de la Revolución Científica, hasta el invento de la telegrafía óptica en 1792 por Claude Chappe,
+ y el trabajo posterior de los físicos franceses Jean-Daniel Colladon y Jacques Babinet, y del irlandés John Tyndall, todo a finales del siglo XIX.
+La fibra óptica como tal no gozaría del interés de los ingenieros hasta 1950 y en 1970 sería fabricada la primera pieza,
+ usando impurezas de titanio en sílice, por obra de Robert Maurer, Donald Keck, Peter Schultz y Frank Zimar. La primera transmisión de información
+ a través de este medio se hizo el 22 de abril de 1977 en Long Beach, California, y en la década de los 80 se perfeccionó y empezó a implementar a escala internacional.</p>
+<p>¿Para qué sirve la fibra óptica?
+La fibra óptica es ideal para las telecomunicaciones por cable, 
+permitiendo establecer redes informáticas locales y de largo alcance, 
+con un mínimo de pérdida de información en el camino.
+Sus aplicaciones son diversas en este campo, permitiendo la obtención de material de redes,
+ sensores de fibra óptica (para temperatura, presión o niveles de luz)
+, material de iluminación (particularmente eficaz ya que no requiere de cercanía con la fuente de luz)
+, y siendo además útil para la decoración (hay árboles de navidad elaborados de fibra óptica) o  como componente del hormigón translúcido.
+¿Cómo funciona la fibra óptica?
+El principio de funcionamiento de la fibra óptica es el de la Ley de Snell,
+ que permite calcular el ángulo de refracción de la luz al pasar de un medio a otro con distinto índice de refracción.
+Así, dentro de la fibra, los haces de luz quedan atrapados y propagándose en el núcleo,
+ dadas las propiedades físicas del revestimiento y del ángulo de reflexión adecuado, 
+transportando hasta el destino la información enviada. En esto último opera de manera similar al telégrafo.</p>
+<p>Características de la fibra óptica
+La fibra óptica empleada hoy en día se compone de un núcleo de plástico o vidrio (óxido de silicio y germanio)
+ que presenta un alto índice de refracción, recubierto de un plástico similar, pero de menor índice refractivo.
+Así, de acuerdo al mecanismo de propagación de la luz en su interior, la fibra óptica puede ser de dos tipos:
+Fibra monomodal. Permite la propagación de un único modo de luz, a través de la reducción del diámetro del núcleo de fibra,
+ permitiendo enviar información a largas distancias y a buena tasa de transferencia.
+Fibra multimodal. Permite que los haces de luz se propaguen en más de una manera (más de mil modos distintos), 
+lo cual incrementa el margen de error y la hace no muy recomendable para conexiones de muy larga distancia.</p>
+<p>Ventajas de la fibra óptica
+La fibra óptica presenta las siguientes ventajas:
+
+Ocupa poco espacio. Dado su pequeño tamaño, pero se sumamente flexible, lo cual facilita su instalación.
+Es liviana. Pues pesa ocho veces menos que un cable convencional.
+Presenta una gran resistencia. Tanto mecánica como térmica, y resiste bien a la corrosión.
+Es más ecológica. En comparación con los residuos dejados por el cableado convencional.
+Inmune a interferencias electromagnéticas. Dada la naturaleza de sus componentes.
+Veloz, eficaz y segura. Es la mejor forma de transmisión de datos por cable conocida.
+Desventajas de la fibra óptica
+Las desventajas de la fibra óptica apuntan a lo siguiente:
+
+Son frágiles. Ya que el vidrio en su interior es susceptible de romperse.
+Requiere de conversores. Para devolver la energía lumínica a su sentido informativo.
+Son difíciles los empalmes. Especialmente en las zonas rurales.
+No transmite energía eléctrica. Por lo que requiere de emisores y transportadores complejos, cuyo suministro de energía no puede tomarse de la línea misma.
+Envejece ante la presencia de agua. Lo cual limita su aplicación mundial.
+No existen memorias ópticas.</p>
+<p>Red inalámbrica
+¿Qué es una red inalámbrica?
+En informática y telecomunicaciones, se conoce como red inalámbrica a un tipo de conexión entre sistemas informáticos (o sea, entre computadoras)
+ que se lleva a cabo mediante diversas ondas del espectro electromagnético</p>
+<p>Es decir, es una conexión de nodos que no requiere de ningún tipo de cableado o dispositivo alámbrico, 
+ya que la transmisión y recepción de la información se produce mediante puertos especializados.
+ Este tipo de tecnología representa un enorme salto adelante respecto de los métodos tradicionales.
+Se originó en 1971, cuando un grupo de investigadores dirigidos por el ingeniero informático estadounidense Norman Abramson (1932),
+ crearon en la Universidad de Hawái ALOHA, el primer sistema de conmutación de paquetes a través una red de comunicaciones por ondas de radio.
+ALOHA estaba conformada por 7 computadoras ubicadas en distintas islas de la región, 
+vinculadas entre sí mediante un servidor central que realizaba distintos cálculos para suministrarles.
+ Los primeros inconvenientes tuvieron que ver con que los mensajes provenientes de las distintas estaciones no se solaparan entre sí,
+ lo cual exigió la creación de los primeros protocolos MAC.
+Al año siguiente, ya ALOHA estaba conectándose a ARPANET, el servicio de información computarizado estadounidense, precursor de Internet.</p>
+
+
+
+
+</body>
+</head>
+</html>
